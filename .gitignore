@@ -80,3 +80,11 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+MVVM\+C.xctemplate/View/.DS_Store
+
+MVVM\+C.xctemplate/.DS_Store
+
+MVVM\+C.xctemplate/MVVM/.DS_Store
+
+.DS_Store
