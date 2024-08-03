@@ -4,6 +4,18 @@
 
 This project follows the MVVM+C (Model-View-ViewModel + Coordinator) architecture pattern. It is designed to maintain a clear separation of concerns, making the codebase more modular, testable, and scalable.
 
+## How to Import
+
+Place MVVM+C.xctemplate at ~/Library/Developer/Xcode
+
+If you need to access files in the `~/Library/Developer/Xcode` directory, you can do so via Finder or Terminal.
+
+Using Finder:
+
+Open Finder.
+Press Cmd + Shift + G to open the "Go to Folder" dialog.
+Enter `~/Library/Developer/Xcode` and press Enter.
+
 ## File Structure
 
 ### 1. Builder.swift
