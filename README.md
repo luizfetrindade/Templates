@@ -6,7 +6,7 @@ This project follows the MVVM+C (Model-View-ViewModel + Coordinator) architectur
 
 ## How to Import
 
-Place MVVM+C.xctemplate at ~/Library/Developer/Xcode
+Place MVVM+C.xctemplate at `~/Library/Developer/Xcode`
 
 If you need to access files in the `~/Library/Developer/Xcode` directory, you can do so via Finder or Terminal.
 
